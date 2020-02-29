@@ -1,10 +1,7 @@
 package main;
 
 import account.AccountService;
-import account.Logger;
 import account.TransferService;
-
-import javax.swing.*;
 
 public class Main {
     public static void main(String[] args) {
